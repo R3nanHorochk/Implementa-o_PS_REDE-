@@ -1,15 +1,17 @@
-📘 1. Diagrama de Sequência
+ **⚠️ Atenção:** Os diagramas e o script são relevantes apenas para o caso de uso Solicita Afiliação.
+
+**📘 1. Diagrama de Sequência**
 
 ![Diagrama de sequência básico](https://github.com/user-attachments/assets/33c59d2a-628b-4297-a7a3-e8946d565915)
 
 
-🧩 2. Diagrama de Classes
+**🧩 2. Diagrama de Classes**
 
 ![Fluxograma (8)](https://github.com/user-attachments/assets/2df2da75-e92d-4d94-ba4c-143e9cef19ee)
 
 
 
-🗄️ 3. Script do Banco de Dados (MySQL)
+**🗄️ 3. Script do Banco de Dados (MySQL)**
 
 <details>
  <summary> Clique aqui para expandir </summary>
